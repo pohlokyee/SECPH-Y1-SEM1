@@ -4,14 +4,14 @@ using namespace std;
 
 // function prototypes
 
-float get_Price(); //error1
+float get_Price(); 
 float get_Weight();
 void postage(float, float);
 // start main function
 int main() {
-	float weight = 0; // should not more than 3 kg error2
+	float weight = 0; // should not more than 3 kg 
 	float price = 0; // should > 0
-	weight = get_Weight(); //error3
+	weight = get_Weight(); 
 	price = get_Price();
 	cout << "Price not including postage = " << price << "\n\n";
 // The postage function should able calculate and set price
@@ -22,7 +22,7 @@ int main() {
 	return 0;
 }
 // start new user-defined functions
-	float get_Price() { //error4
+	float get_Price() { 
 		float p = 0;
 		cout << "\n";
 		while (p == 0) {
@@ -31,7 +31,7 @@ int main() {
 		}
 		return p;
 	}
-	float get_Weight() { //error5
+	float get_Weight() { 
 		float w = 0;
 		do {
 			cout << "Item weight (not more than 3 kg): ";
