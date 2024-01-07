@@ -6,6 +6,6 @@ The semester kicks off with fundamental courses in math and computer science, la
 
 
 
-As I step into this chapter of our academic story, UTM's Semester 1 becomes the crucible where my passion for data engineering transforms into a powerful skill set. It's a blend of theory and hands-on practice, shaping me for the future of data-driven technology.
+As I step into this chapter of academic story, UTM's Semester 1 becomes the crucible where my passion for data engineering transforms into a powerful skill set. It's a blend of theory and hands-on practice, shaping me for the future of data-driven technology.
 
 This first semester is just the beginning. The doors to innovation and exploration swing wide open, inviting me to go deeper into the captivating world of data engineering. Each lecture, project, and collaboration propels me toward a future defined by data expertise and technological mastery. Let the journey unfold.
