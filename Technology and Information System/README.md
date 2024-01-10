@@ -2,7 +2,7 @@
 
 **As a primer subject, this course will introduce students to information systems and technology (IS/IT) and the emerging trends of IS/IT, as well as its uses in daily life both at home and at work. Students will be equipped with basic skills in setting up and handling cloud server via practical work in the virtual guided lab, which shall comprise a major part of the study.**
 
-👩‍🏫Lecturer-[Dr.Aryati Binti Bakri](https://github.com/Yatib)
+**👩‍🏫Lecturer** - [Dr.Aryati Binti Bakri](https://github.com/Yatib)
 
 
 ## Topic
