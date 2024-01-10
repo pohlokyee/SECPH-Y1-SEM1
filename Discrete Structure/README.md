@@ -3,7 +3,7 @@
 **This course introduces students to the principles and applications of discrete structure in the field of computer science.**
 
 
-**👩‍🏫Lecturer** - Noorfa Haszlinna Binti Mustaffa
+**👩‍🏫Lecturer** - Dr. Noorfa Haszlinna Binti Mustaffa
 
 
 ## Topic
