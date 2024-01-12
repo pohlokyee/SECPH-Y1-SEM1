@@ -21,3 +21,8 @@
 - Counters
 
 
+## Reflection
+I have develop a deep understanding of fundamental concepts like boolean algebra, logic gates, and binary representation through this course.
+  
+
+
