@@ -19,3 +19,5 @@
 - finite automata
 
 
+## Reflection
+Although I had learnt some of the topics before in foundation, I'm able to gain a deeper and greater understanding on these topics. Converting the mathematics calculation to the code is the new things for me and it helps me to strengthen my skills on programming and calculating.
