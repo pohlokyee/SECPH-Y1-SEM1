@@ -17,4 +17,5 @@
 - Pointers
 - Structured Data
 
-
+## Reflection
+As a part of a computer science student, programming skills are vital to develop a system. I'm able to develop some basic system to solve some basic problem by using C++ programming language. The array functions have provide a convenient way for me to solve the problems with multiples input data. By combining all the topics learnt, I believe that i have build up a basic programming skills and ready to learn my programming languages and knowledge.
