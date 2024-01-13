@@ -22,7 +22,7 @@
 
 
 ## Reflection
-I have develop a deep understanding of fundamental concepts like boolean algebra, logic gates, and binary representation through this course.
+I have develop a deep understanding of fundamental concepts like boolean algebra, logic gates, and binary representation through this course. I'm able to learn how to build a full circuit by using different gates,it's not an easy tasks but I'm very enjoying it.
   
 
 
