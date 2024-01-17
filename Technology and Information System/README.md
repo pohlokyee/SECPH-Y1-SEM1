@@ -14,6 +14,6 @@
 - Systems Analysis and Design
 - Database & Data Analytics
 - Networks & Communications
-- chap 7
+- Privacy, Secutiry & Ethics
 - Cloud Computing
 
